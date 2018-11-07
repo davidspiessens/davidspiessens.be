@@ -1,4 +1,7 @@
 {
     "name": "davidspiessens.be",
-    "alias": "davidspiessens.be"
+    "alias": [
+        "davidspiessens.be",
+        "www.davidspiessens.be"
+    ]
 }
