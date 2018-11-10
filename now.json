@@ -3,5 +3,11 @@
     "alias": [
         "davidspiessens.be",
         "www.davidspiessens.be"
-    ]
+    ],
+    "scale": {
+        "bru1": {
+          "min": 1,
+          "max": "auto"
+        }
+    }
 }
